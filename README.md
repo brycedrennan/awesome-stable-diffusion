@@ -37,6 +37,7 @@ All forks listed here add additional features and optimisations and are generall
 * [NickLucche/stable-diffusion-nvidia-docker](https://github.com/NickLucche/stable-diffusion-nvidia-docker) - Multi (Nvidia) GPU capable docker setup of SD
 * [replicate/copg-stable-diffusion](https://github.com/replicate/cog-stable-diffusion) - [Cog machine learning container](https://github.com/replicate/cog) of SD v1.4.
 * [stable-diffusion-jupyterlab-docker](https://github.com/pieroit/stable-diffusion-jupyterlab-docker) - A Docker setup ready to go with Jupyter notebooks for Stable Diffusion. 
+* [imaginAIry](https://github.com/brycedrennan/imaginAIry) - Pythonic generation of stable diffusion images. Supports complex text-based masking.
 
 ## Models and Weights
 
@@ -55,6 +56,7 @@ Models (.ckpt files) must be separately downloaded and are required to run Stabl
 * [Deforum](https://github.com/deforum/stable-diffusion) - Advanced notebook for Stable Diffusion with 2D, 3D, Video Input, and Interpolation animations. Includes inpainting, prompt batching, and more.
 * 🖊️ [Stable Diffusion Interpolation](https://colab.research.google.com/drive/1EHZtFjQoRr-bns1It5mTcOVyZzZD9bBc?usp=sharing) - AA simple implementation of generating N interpolated images (Colab)
 * [huggingface/diffuse-the-rest](https://huggingface.co/spaces/huggingface/diffuse-the-rest) - Diffuse the Rest - img2img from simple sketches or uploaded images.
+
 
 ## Complementary Models and Tools
 
